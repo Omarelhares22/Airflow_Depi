@@ -37,10 +37,6 @@ Tasks run in order: `print_date` → `print_welcome` → `generate_random`.
 - **File issues**: Ensure `/tmp` is writable in the container.
 - **Docker problems**: View logs with `docker-compose logs`.
 
-## License
-
-MIT License
-
 
 
 
