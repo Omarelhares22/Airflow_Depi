@@ -44,6 +44,6 @@ MIT License
 <img src "https://github.com/user-attachments/assets/3fea71e4-64c4-4c26-b27d-a50eb2ea729e" width="300">
 <img src "https://github.com/user-attachments/assets/3b5432a5-fbe5-4591-88ec-ce2930e1905e" width="300">
 <img src "https://github.com/user-attachments/assets/b05078cf-06df-420b-bad6-9bf1e2275123" width="300">
-<img src "https://github.com/user-attachments/assets/0ede2d7b-3e35-4d44-be9a-ed81bc81a372" width="300">
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/0ede2d7b-3e35- />4d44-be9a-ed81bc81a372"
 </div>
 
