@@ -40,10 +40,13 @@ Tasks run in order: `print_date` → `print_welcome` → `generate_random`.
 ## License
 
 MIT License
+
+
+
+
 <div>
-<img width="200" alt="Image" src="https://github.com/user-attachments/assets/34b524c1-6a63-4650-bc8d-a2d29aac1eb5" />
 <img width= "300"alt="Image" src="https://github.com/user-attachments/assets/49585790-cc6d-4abc-8a25-1087ce550f8d" />
-<img width="200" alt="Image" src="https://github.com/user-attachments/assets/87ec40a8-34e0-4b8c-a128-90702c5190c5" />
+<img width="300" alt="Image" src="https://github.com/user-attachments/assets/34b524c1-6a63-4650-bc8d-a2d29aac1eb5" />
+<img width="300" alt="Image" src="https://github.com/user-attachments/assets/87ec40a8-34e0-4b8c-a128-90702c5190c5" />
 <img width="200" alt="Image" src="https://github.com/user-attachments/assets/b08cc719-b5ef-44a2-8cc7-08d82a67928e" />
 </div>
-
