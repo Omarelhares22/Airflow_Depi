@@ -17,14 +17,9 @@ Tasks run in order: `print_date` → `print_welcome` → `generate_random`.
 
 ## Setup
 
-1. Clone the repo:
 
-   ```bash
-   git clone <repository-url>
-   cd <repository-directory>
-   ```
-2. Put `Airflow_Depi.py` in the `dags` folder of your Docker Compose setup.
-3. Start Airflow:
+1. Put `Airflow_Depi.py` in the `dags` folder of your Docker Compose setup.
+2. Start Airflow:
 
    ```bash
    docker-compose up -d
